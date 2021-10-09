@@ -1,0 +1,42 @@
+* {
+font-family: Segoe UI;
+margin: 0%;
+padding: 0%;
+}
+.loginButton {
+    align-items: center;
+    margin-bottom: 5px;
+    padding : 30px;
+}
+
+.signupButton {
+    align-items: center;
+    padding : 30px;
+}
+
+.header {
+    height: 50px;
+    width: 100%;
+    /* background-color : red; */
+    position: fixed;
+}
+
+.logo {
+    height: 50px;
+    width: 20%;
+    display: flex;
+    color: white;
+    padding-top:15px;
+}
+
+.logo:hover {
+    cursor: pointer;
+    background-color: rgb(117, 117, 117);
+}
+
+.container {
+    height: 700px;
+    min-width: 100%; 
+    background-image: url('\src\app\images\Banner2.jpg');
+    background-size: 100% 100%;
+}

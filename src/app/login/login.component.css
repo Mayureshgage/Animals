@@ -1,0 +1,51 @@
+
+h1 {
+    align-items: center;
+    /* background-color: red; */
+    padding-left: 170px;
+    height: 80px;
+    font-family: Segoe UI;
+    font-weight: bold;
+    font-size: 30px;    
+}
+
+.logo {
+    margin-left: 180px;
+    height: 200px;
+    width: 350px;
+
+}
+.login-container {
+    margin-top: 7px;    
+    /* padding-bottom: 70px; */
+    /* background-size: 100% 100%; */
+}
+.Login-form {
+    width: 100%;
+    padding-left: 150px;
+    margin-bottom: 80px;
+}
+.full-width-control {
+    width: 500px;
+    height: 100px;
+    line-height: 20px;   
+}
+
+.button {
+    margin-left: 400px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(150, 150, 235);
+}
+
+.button:hover {
+    transform : scale(1.2);
+    color : black;
+}
+
+.register {
+    margin-top: 20px;
+    margin-left: 180px;
+    color: black;
+    background-color: rgb(128, 211, 128);
+}

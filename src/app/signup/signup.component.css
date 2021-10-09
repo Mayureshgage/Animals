@@ -1,0 +1,46 @@
+* {
+    font-family: Segoe UI;
+}
+.header {
+    /* background-color: red; */
+    line-height: 50px;
+    font-size: 30px;
+    font-family: Segoe UI;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+.logo {
+    margin-left: 180px;
+    height: 200px;
+    width: 350px;
+
+}
+
+.register-form {
+    /* background-color: gray; */
+    height : 500px;
+    width: 70%;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.full-width-control {
+    width: 500px;
+    height: 100px;
+    line-height: 20px;       
+}
+
+.button {
+    margin-left: 300px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(128, 211, 128);
+} 
+
+.button:hover {
+    transform : scale(1.2);
+    color : black;
+}
+

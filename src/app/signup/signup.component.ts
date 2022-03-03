@@ -25,7 +25,17 @@ export class SignupComponent implements OnInit {
     
    }
 
+  
+
   ngOnInit(): void {
+
+    
   }
+
+  Hello() {
+    alert("hello to everyone");
+  }
+
+  
 
 }
